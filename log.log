@@ -1,0 +1,12 @@
+2024-02-24 16:42:55,305 - DEBUG - debug
+2024-02-24 16:42:55,306 - INFO - info
+2024-02-24 16:42:55,306 - WARNING - Warning
+2024-02-24 16:42:55,306 - ERROR - Error
+2024-02-24 16:42:55,306 - CRITICAL - Critical
+2024-02-24 16:42:55,306 - DEBUG - The value of the variable is 5
+2024-02-24 16:42:55,306 - ERROR - division by zero
+Traceback (most recent call last):
+  File "c:\Users\OMOLP094\Desktop\Dynamic-Programming\error_logging.py", line 23, in <module>
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
